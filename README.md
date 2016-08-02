@@ -2,7 +2,7 @@
 
 #### _Sample web page to practice HTML, Aug. 1, 2016_
 
-#### By _**Andrew Merrell and Brian Dutz**_
+#### By _**Andrew Merrell, Brian Dutz and Larry Tunseth**_
 
 ## Description
 
@@ -30,6 +30,6 @@ Atom_
 
 ### License
 
-Copyright (c) 2016 **_Andrew Merrell and Brian Dutz_**
+Copyright (c) 2016 **_Andrew Merrell, Brian Dutz and Larry Tunseth_**
 
 This web page is licenced under the MIT license.
