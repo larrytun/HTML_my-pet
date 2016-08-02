@@ -1,0 +1,21 @@
+h1 {
+  color: orange;
+  font-size: 60px;
+  font-family: cursive;
+}
+
+ol {
+  color: red;
+  font-size: 30px;
+  font-family: serif;
+}
+
+p {
+  color: black;
+  font-size: 14px;
+  font-family: helvetica;
+}
+
+img {
+  width: 400px;
+}
